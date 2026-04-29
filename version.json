@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "2.0",
+  "releaseNotes": "- Auto URL refresh from iptv-org\n- Improved channel list UI\n- Faster stream start\n- Group/category filter\n- Channel logos\n- M3U URL input",
+  "apkUrl": "https://github.com/ManmeetSingh122/SimpleIPTV-updates/releases/download/v2.0/app-release.apk"
+}
