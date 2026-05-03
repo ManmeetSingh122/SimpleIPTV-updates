@@ -23,4 +23,4 @@ Stream URL data sourced from [iptv-org/iptv](https://github.com/iptv-org/iptv) �
 
 ---
 
-© 2025 Manmeet Singh. All rights reserved.
+© 2026 Manmeet Singh. All rights reserved.
