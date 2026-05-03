@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
   "versionName": "3.5",
-  "releaseNotes": "✨ v3.5 — Major Update\n\n🎨 Completely redesigned UI\n• Deep navy theme, premium look\n• Smooth sidebar slide-in animation\n• Channel fade transition on switch\n• Bigger channel items with logo cards\n• Improved banner with slide-up animation\n• Channel number overlay shows channel name preview\n\n⭐ New features\n• Favorites — long-press OK on any channel\n• Search — type while sidebar is open\n• Live clock in sidebar header\n• Favorites filter tab\n\n⚡ Performance\n• Faster list updates with AsyncListDiffer\n• Optimized memory usage\n• Smoother animations throughout",
+  "releaseNotes": "✨ v3.5 — Major Update",
   "apkUrl": "https://github.com/ManmeetSingh122/SimpleIPTV-updates/releases/download/v3.5/app-release.apk"
 }
